@@ -1,0 +1,44 @@
+/* Nav Section */
+
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 7px;
+}
+
+/* About section */
+
+#about {
+    height: 370px;
+    padding: 3px 28px;
+}
+
+#about::before {
+    height: 420px;
+}
+
+#about p {
+    font-size: 13px;
+}
+
+/* Interest Section */
+
+#interest {
+    margin: 50px auto;
+}
+
+#interest table {
+    width: 90%;
+    font-size: 16px;
+}
+
+/* Footer Section */
+
+#footer {
+    flex-wrap: wrap;
+}
+
+#footer div a img {
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+}
